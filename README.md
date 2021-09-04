@@ -2,6 +2,8 @@
 ## Hello World, I'm Alessandro
 
 
+:mortar_board: Graduating in **Analysis in Systems Development at Fael College** (only missing the ENADE test at the end of 2021) to graduate
+
 :seedling: Learning HTML, CSS, JavaScript
 
 :heart: Lover of Technology and Coding
