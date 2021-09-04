@@ -1,4 +1,13 @@
-# alessandroaires
+
+## Hello World, I'm Alessandro
+
+
+:seedling: Learning HTML, CSS, JavaScript
+
+:heart: Lover of Technology and Coding
+
+
+ ## About me
  
  <div>
   <a href="https://github.com/alessandroaires">
@@ -16,10 +25,14 @@
   ##
  
 <div> 
+ 
+
   
   <a href = "mailto:alessandro.aires@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alessandroaires23070b49/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- 
- 
 </div>
+ 
+ Thanks for Visiting.
+ 
+ Enjoy it!!!
